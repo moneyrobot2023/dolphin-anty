@@ -14,3 +14,8 @@
 
 ## **Настройки:**
 Вы можете открыть **settings.py** file and set the **backup** variable to **True** or **False**. Каждый раз, когда профиль успешно закрывается, он будет копироваться в папку browsers_backup
+
+![Image alt](https://github.com/moneyrobot2023/dolphin-anty/blob/main/script.jpg)
+
+Купить скрипт https://t.me/FRADDDYRAD
+
